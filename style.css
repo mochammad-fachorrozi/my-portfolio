@@ -28,6 +28,6 @@
     padding: 0;
   }
 
-
-  /* Animate */
-  
+header, section {
+  padding-top: 3rem;
+}
